@@ -19,7 +19,7 @@ growth of renewable sources across countries.
 - **Visualization Best Practices**
 
 ## 📂 Repository Structure
-- `data/` → Raw and cleaned datasets
+- `data/` → Raw Data - https://www.kaggle.com/datasets/unitednations/international-energy-statistics?select=all_energy_statistics.csv
 - `pbix/` → Power BI project file
 - `exports/` → Screenshot, PDF, video
 - `README.md` → Documentation
